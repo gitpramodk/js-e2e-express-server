@@ -27,3 +27,5 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+    
+[![Build Status](https://dev.azure.com/thinkpramodorg/GithubActionDemo/_apis/build/status/gitpramodk.js-e2e-express-server?branchName=main)](https://dev.azure.com/thinkpramodorg/GithubActionDemo/_build/latest?definitionId=33&branchName=main)
